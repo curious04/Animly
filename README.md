@@ -1,12 +1,6 @@
-# AnimX - AI Animation Generator
+# Animly - AI Animation Generator
 
-AnimX is a web application that generates 2D animations using Manim based on natural language prompts. It uses OpenAI's GPT model to convert your descriptions into Manim code and then renders the animations.
-
-## Prerequisites
-
-- Python 3.7+
-- Node.js 14+
-- OpenAI API key
+Animly is a web application that generates 2D animations using Manim based on natural language prompts. It uses OpenAI's GPT model to convert your descriptions into Manim code and then renders the animations.
 
 ## Setup
 
